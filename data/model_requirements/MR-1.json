@@ -1,0 +1,7 @@
+{
+  "id": "MR-1",
+  "requirement_text": "The `Customer` aggregate represents a customer in a CRM system. It has a firstname, a lastname and an email address.",
+  "summary": "The `Customer` aggregate has name and email.",
+  "implemented_paths": [],
+  "implemented_requirement_text": null
+}
