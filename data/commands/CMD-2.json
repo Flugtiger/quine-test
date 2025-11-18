@@ -1,0 +1,8 @@
+{
+  "id": "CMD-2",
+  "name": "VerifyLead",
+  "description": "Verifies a `Lead`. Takes a verification token as input that must match the `Lead`s token.",
+  "implemented_paths": [],
+  "implemented_name": null,
+  "implemented_description": null
+}
