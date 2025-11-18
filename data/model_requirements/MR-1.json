@@ -2,6 +2,12 @@
   "id": "MR-1",
   "requirement_text": "A `Lead` is an aggregate that has an email address and a verification token.\nThe token is randomly generated when a Lead is created.\nIt has sufficient bits to not be guessable.\nA `Lead` is initially unverified.\nWhen a `Lead` gets verified, the time of verification is also saved.",
   "summary": "`Lead` aggregate with email address and verification.",
-  "implemented_paths": [],
-  "implemented_requirement_text": null
+  "implemented_paths": [
+    "quine-test/model/leads/lead_id.py",
+    "quine-test/model/leads/email_address.py",
+    "quine-test/model/leads/verification_token.py",
+    "quine-test/model/leads/lead.py",
+    "quine-test/model/leads/lead_repository.py"
+  ],
+  "implemented_requirement_text": "A `Lead` is an aggregate that has an email address and a verification token.\nThe token is randomly generated when a Lead is created.\nIt has sufficient bits to not be guessable.\nA `Lead` is initially unverified.\nWhen a `Lead` gets verified, the time of verification is also saved."
 }
