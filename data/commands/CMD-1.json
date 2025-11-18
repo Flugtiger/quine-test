@@ -2,7 +2,11 @@
   "id": "CMD-1",
   "name": "CreateLead",
   "description": "Creates and saves new `Lead`",
-  "implemented_paths": [],
-  "implemented_name": null,
-  "implemented_description": null
+  "implemented_paths": [
+    "quine-test/application/create_lead/create_lead_input.py",
+    "quine-test/application/create_lead/create_lead_output.py",
+    "quine-test/application/create_lead/create_lead_handler.py"
+  ],
+  "implemented_name": "CreateLead",
+  "implemented_description": "Creates and saves new `Lead`"
 }
