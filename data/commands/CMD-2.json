@@ -2,7 +2,10 @@
   "id": "CMD-2",
   "name": "VerifyLead",
   "description": "Verifies a `Lead`. Takes a verification token as input that must match the `Lead`s token.",
-  "implemented_paths": [],
-  "implemented_name": null,
-  "implemented_description": null
+  "implemented_paths": [
+    "quine-test/application/verify_lead/verify_lead_input.py",
+    "quine-test/application/verify_lead/verify_lead_handler.py"
+  ],
+  "implemented_name": "VerifyLead",
+  "implemented_description": "Verifies a `Lead`. Takes a verification token as input that must match the `Lead`s token."
 }
