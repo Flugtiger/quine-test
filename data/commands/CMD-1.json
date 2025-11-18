@@ -1,0 +1,8 @@
+{
+  "id": "CMD-1",
+  "name": "CreateLead",
+  "description": "Creates and saves new `Lead`",
+  "implemented_paths": [],
+  "implemented_name": null,
+  "implemented_description": null
+}
