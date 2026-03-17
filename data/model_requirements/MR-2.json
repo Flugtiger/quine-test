@@ -2,6 +2,10 @@
   "id": "MR-2",
   "requirement_text": "An Origin is an aggregate that contains information about where a Lead is coming from (e.g. landingpage, LinkedIng, ...). It has a name and a description.",
   "summary": "Origin",
-  "implemented_paths": [],
-  "implemented_requirement_text": null
+  "implemented_paths": [
+    "quine-test/model/origins/origin_id.py",
+    "quine-test/model/origins/origin.py",
+    "quine-test/model/origins/origin_repository.py"
+  ],
+  "implemented_requirement_text": "An Origin is an aggregate that contains information about where a Lead is coming from (e.g. landingpage, LinkedIng, ...). It has a name and a description."
 }
