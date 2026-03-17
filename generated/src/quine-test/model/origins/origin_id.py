@@ -1,4 +1,4 @@
-# MR-2: Origin aggregate identity
+# MR-2: Origin aggregate - ID Value Object
 
 from pydantic import RootModel
 

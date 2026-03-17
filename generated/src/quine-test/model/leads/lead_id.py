@@ -1,4 +1,4 @@
-# MR-1: Lead aggregate identity
+# MR-1: Lead aggregate - ID Value Object
 
 from pydantic import RootModel
 
