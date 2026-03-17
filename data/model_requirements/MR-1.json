@@ -4,8 +4,6 @@
   "summary": "`Lead` aggregate with email address and verification.",
   "implemented_paths": [
     "quine-test/model/leads/lead_id.py",
-    "quine-test/model/leads/email_address.py",
-    "quine-test/model/leads/verification_token.py",
     "quine-test/model/leads/lead.py",
     "quine-test/model/leads/lead_repository.py"
   ],
