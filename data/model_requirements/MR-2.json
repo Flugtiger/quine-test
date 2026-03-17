@@ -1,0 +1,7 @@
+{
+  "id": "MR-2",
+  "requirement_text": "An Origin is an aggregate that contains information about where a Lead is coming from (e.g. landingpage, LinkedIng, ...). It has a name and a description.",
+  "summary": "Origin",
+  "implemented_paths": [],
+  "implemented_requirement_text": null
+}
