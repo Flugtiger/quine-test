@@ -1,0 +1,7 @@
+{
+  "id": "MR-3",
+  "requirement_text": "A Customer has metadata like name, address, revenue.\nA Customer can be created from a Lead.",
+  "summary": "Customer",
+  "implemented_paths": [],
+  "implemented_requirement_text": null
+}
