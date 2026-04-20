@@ -2,6 +2,8 @@
   "id": "MR-4",
   "requirement_text": "This is just a test",
   "summary": "A test requirement",
-  "implemented_paths": [],
-  "implemented_requirement_text": null
+  "implemented_paths": [
+    "quine-test/model/test/test_marker.py"
+  ],
+  "implemented_requirement_text": "This is just a test"
 }
